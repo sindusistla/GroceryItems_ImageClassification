@@ -1,0 +1,1 @@
+floyd run --gpu --env pytorch --data sistla/datasets/grocery_dataset/1 --message "initial run" "python Image GroceryClassify.ipynb"
